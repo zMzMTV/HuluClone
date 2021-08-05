@@ -10,7 +10,7 @@ export default function Home({ results }) {
       <Head>
         <title>Hulu</title>
         <meta name="description" content="Hulu web clone" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/hulu-icon.png" />
       </Head>
 
       <Header />
