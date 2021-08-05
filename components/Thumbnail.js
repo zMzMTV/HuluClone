@@ -11,6 +11,7 @@ const Thumbnail = forwardRef(({ result }, ref) => {
                 layout="responsive"
                 width="1920"
                 height="1080"
+                alt="Poster"
             />
 
             <div className="p-2">
