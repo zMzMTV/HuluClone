@@ -23,7 +23,7 @@ const Header = () => {
             </div>
             <Image 
                 className="object-contain"
-                src="https://links.papareact.com/ua6"
+                src="/hulu-white.png"
                 width="200"
                 height="100"
                 alt="Logo"
