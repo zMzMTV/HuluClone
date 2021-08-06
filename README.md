@@ -4,10 +4,10 @@ This a clone from the Hulu home page web version. Mobile first design.
 
 ## Packages Used
 
-- (NextJS)[https://nextjs.org/]
-- (Tailwind CSS)[https://tailwindcss.com/]
-- (Heroicons)[https://heroicons.com/]
-- (Flip Move)[https://www.npmjs.com/package/react-flip-move]
+- [NextJS](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Heroicons](https://heroicons.com/)
+- [Flip Move](https://www.npmjs.com/package/react-flip-move)
 
 ## Getting Started
 
